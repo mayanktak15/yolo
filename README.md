@@ -1,4 +1,7 @@
 # Multi-Object Detection and Persistent ID Tracking in Sports/Event Footage
+### Google Drive
+All project deliverables, including the input video, annotated output video, screenshots, analytics outputs, and supporting files, can be accessed using the Google Drive link below:
+https://drive.google.com/drive/folders/1bvX1MSvLQPT5lCFX2kf83xcJzQl4CEzd?usp=sharing
 
 ## Overview
 
@@ -423,8 +426,8 @@ The submission includes:
 
 ## Author
 
-**Candidate Name:** [Your Name]
+**Candidate Name:** Mayank Tak(2026)
 
 **Role:** Computer Vision / AI Engineer Candidate
 
-**Submission Date:** [Date]
+**Submission Date:** 24/06/2026
