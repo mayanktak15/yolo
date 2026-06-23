@@ -1,0 +1,9 @@
+model_name: yolo11n.pt
+confidence_threshold: 0.35
+iou_threshold: 0.5
+image_size: 1280
+device: null
+class_filter:
+  - person
+agnostic_nms: false
+

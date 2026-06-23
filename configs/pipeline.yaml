@@ -1,0 +1,16 @@
+input_video: data/raw/input.mp4
+output_video: data/processed/tracked_output.mp4
+analytics_json: data/metadata/analytics.json
+frame_counts_csv: data/metadata/frame_counts.csv
+track_history_csv: data/metadata/track_history.csv
+count_plot: reports/figures/object_count_over_time.png
+heatmap_path: reports/figures/movement_heatmap.png
+save_video: true
+save_analytics: true
+save_plots: true
+draw_trajectories: true
+trajectory_length: 40
+line_thickness: 2
+display_window: false
+log_level: INFO
+
